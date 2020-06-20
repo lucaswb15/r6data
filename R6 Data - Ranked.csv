@@ -1,17 +1,17 @@
-Date,Game #,Map,Starting Postion,Given Win %,,Our Ban 1,Our Ban 2,Their Ban 1,Their Ban 2,Wins,Loses,Outcome,Lucas KIlls,Lucas Assists,Lucas Deaths,Hans Kills,Hans Assist,Hans Deaths,David Kills,David Assists,David Deaths,Ryan Kills,Ryan Assists,Ryan Deaths,Sam Kills,Sam Assists,Sam Deaths,Lucas KD,Hans KD,David KD,Ryan KD,Sam KD
-6/16/2020,1, Oregon,Defense,X,,Thatcher,Vigil,Jackal,Echo,1,4,0,4.00,2.00,4.00,1.00,2.00,4.00,2.00,2.00,4.00,2.00,2.00,5.00,1.00,0.00,5.00,1.00,0.25,0.50,0.40,0.20
-6/16/2020,2,Theme Park,Defense,X,,Thatcher,Cav,Montagne,Mira,2,4,0,10.00,0.00,4.00,3.00,0.00,4.00,0.00,1.00,5.00,4.00,2.00,5.00,3.00,3.00,6.00,2.50,0.75,0.00,0.80,0.50
-6/16/2020,3,Consulate,Defense,X,,Thatcher,Cav,Jackal,Mira,3,5,0,8.00,2.00,6.00,8.00,0.00,5.00,1.00,1.00,7.00,3.00,3.00,6.00,7.00,7.00,6.00,1.33,1.60,0.14,0.50,1.17
-6/17/2020,4,Bank,Attack,X,,Blackbeard,Echo,Ace,Cav,4,2,1,6.00,1.00,6.00,5.00,2.00,4.00,4.00,3.00,4.00,5.00,2.00,4.00,3.00,0.00,5.00,1.00,1.25,1.00,1.25,0.60
-6/17/2020,5,Kafe,Defense,X,,Thatcher,Cav,Jackal,Echo,4,0,1,2.00,2.00,2.00,2.00,1.00,2.00,4.00,0.00,1.00,5.00,1.00,1.00,7.00,0.00,1.00,1.00,1.00,4.00,5.00,7.00
-6/17/2020,6,Border,Defense,X,,Thatcher,Clash,Montagne,Melusi,4,0,1,5.00,1.00,1.00,0.00,0.00,3.00,4.00,0.00,0.00,6.00,0.00,1.00,3.00,1.00,3.00,5.00,0.00,#DIV/0!,6.00,1.00
-6/17/2020,7,Kanal,Attack,X,,Blackbeard,Echo,Montagne,Clash,4,1,1,5.00,0.00,2.00,3.00,0.00,1.00,2.00,1.00,3.00,4.00,0.00,5.00,6.00,1.00,4.00,2.50,3.00,0.67,0.80,1.50
-6/18/2020,8,Oregon,Defense,X,,Thatcher,Vigil,Montagne,Melusi,3,5,0,5.00,0.00,7.00,3.00,6.00,6.00,4.00,3.00,7.00,12.00,3.00,6.00,3.00,3.00,6.00,,,,,
-6/18/2020,9,Villa,Attack,X,,Blackbeard,Mira,Gridlock,Melusi,1,4,0,0.00,0.00,4.00,7.00,0.00,4.00,0.00,0.00,4.00,5.00,2.00,4.00,2.00,1.00,5.00,,,,,
-6/19/2020,10,Club House,Defense,X,,Thatcher,Cav,Ace,Clash,1,4,0,2.00,1.00,4.00,1.00,0.00,5.00,0.00,0.00,4.00,4.00,2.00,4.00,3.00,0.00,4.00,,,,,
-6/19/2020,11,Coastline,Defense,X,,Jackal,Vigil,Thermite,Clash,4,2,1,3.00,1.00,4.00,1.00,1.00,4.00,2.00,0.00,2.00,8.00,1.00,3.00,9.00,0.00,4.00,,,,,
-6/19/2020,12,Bank,Attack,X,,Blackbeard,Cav,Jackal,Clash,4,2,1,4.00,1.00,4.00,3.00,1.00,2.00,2.00,1.00,2.00,7.00,4.00,4.00,,,,,,,,
-6/19/2020,13,Consulate,Defense,X,,Jackal,Cav,Dokkabei,Melusi,2,4,0,3.00,0.00,4.00,5.00,0.00,5.00,4.00,3.00,5.00,5.00,2.00,4.00,,,,,,,,
-6/20/2020,14,Kafe,Defense,X,,Jackal,Cav,Blitz,Clash,0,4,0,4.00,0.00,3.00,2.00,0.00,4.00,2.00,0.00,4.00,2.00,2.00,4.00,1.00,1.00,4.00,,,,,
-6/20/2020,15,Outback,Attack,X,,Ace,Cav,Jackal,Echo,5,3,1,7.00,3.00,5.00,7.00,5.00,4.00,3.00,1.00,4.00,7.00,3.00,5.00,7.00,3.00,5.00,,,,,
-6/20/2020,16,Border,Defense,X,,Thatcher,Cav,Montagne,Melusi,4,0,1,0.00,0.00,4.00,4.00,0.00,0.00,1.00,0.00,0.00,6.00,1.00,1.00,2.00,1.00,1.00,,,,,
+Date,Game #,Map,Starting Postion,Given Win %,Our Ban 1,Our Ban 2,Their Ban 1,Their Ban 2,Wins,Loses,Outcome,Lucas KIlls,Lucas Assists,Lucas Deaths,Hans Kills,Hans Assist,Hans Deaths,David Kills,David Assists,David Deaths,Ryan Kills,Ryan Assists,Ryan Deaths,Sam Kills,Sam Assists,Sam Deaths,Lucas KD,Hans KD,David KD,Ryan KD,Sam KD
+6/16/2020,1, Oregon,Defense,X,Thatcher,Vigil,Jackal,Echo,1,4,0,4.00,2.00,4.00,1.00,2.00,4.00,2.00,2.00,4.00,2.00,2.00,5.00,1.00,0.00,5.00,1.00,0.25,0.50,0.40,0.20
+6/16/2020,2,Theme Park,Defense,X,Thatcher,Cav,Montagne,Mira,2,4,0,10.00,0.00,4.00,3.00,0.00,4.00,0.00,1.00,5.00,4.00,2.00,5.00,3.00,3.00,6.00,2.50,0.75,0.00,0.80,0.50
+6/16/2020,3,Consulate,Defense,X,Thatcher,Cav,Jackal,Mira,3,5,0,8.00,2.00,6.00,8.00,0.00,5.00,1.00,1.00,7.00,3.00,3.00,6.00,7.00,7.00,6.00,1.33,1.60,0.14,0.50,1.17
+6/17/2020,4,Bank,Attack,X,Blackbeard,Echo,Ace,Cav,4,2,1,6.00,1.00,6.00,5.00,2.00,4.00,4.00,3.00,4.00,5.00,2.00,4.00,3.00,0.00,5.00,1.00,1.25,1.00,1.25,0.60
+6/17/2020,5,Kafe,Defense,X,Thatcher,Cav,Jackal,Echo,4,0,1,2.00,2.00,2.00,2.00,1.00,2.00,4.00,0.00,1.00,5.00,1.00,1.00,7.00,0.00,1.00,1.00,1.00,4.00,5.00,7.00
+6/17/2020,6,Border,Defense,X,Thatcher,Clash,Montagne,Melusi,4,0,1,5.00,1.00,1.00,0.00,0.00,3.00,4.00,0.00,0.00,6.00,0.00,1.00,3.00,1.00,3.00,5.00,0.00,#DIV/0!,6.00,1.00
+6/17/2020,7,Kanal,Attack,X,Blackbeard,Echo,Montagne,Clash,4,1,1,5.00,0.00,2.00,3.00,0.00,1.00,2.00,1.00,3.00,4.00,0.00,5.00,6.00,1.00,4.00,2.50,3.00,0.67,0.80,1.50
+6/18/2020,8,Oregon,Defense,X,Thatcher,Vigil,Montagne,Melusi,3,5,0,5.00,0.00,7.00,3.00,6.00,6.00,4.00,3.00,7.00,12.00,3.00,6.00,3.00,3.00,6.00,,,,,
+6/18/2020,9,Villa,Attack,X,Blackbeard,Mira,Gridlock,Melusi,1,4,0,0.00,0.00,4.00,7.00,0.00,4.00,0.00,0.00,4.00,5.00,2.00,4.00,2.00,1.00,5.00,,,,,
+6/19/2020,10,Club House,Defense,X,Thatcher,Cav,Ace,Clash,1,4,0,2.00,1.00,4.00,1.00,0.00,5.00,0.00,0.00,4.00,4.00,2.00,4.00,3.00,0.00,4.00,,,,,
+6/19/2020,11,Coastline,Defense,X,Jackal,Vigil,Thermite,Clash,4,2,1,3.00,1.00,4.00,1.00,1.00,4.00,2.00,0.00,2.00,8.00,1.00,3.00,9.00,0.00,4.00,,,,,
+6/19/2020,12,Bank,Attack,X,Blackbeard,Cav,Jackal,Clash,4,2,1,4.00,1.00,4.00,3.00,1.00,2.00,2.00,1.00,2.00,7.00,4.00,4.00,,,,,,,,
+6/19/2020,13,Consulate,Defense,X,Jackal,Cav,Dokkabei,Melusi,2,4,0,3.00,0.00,4.00,5.00,0.00,5.00,4.00,3.00,5.00,5.00,2.00,4.00,,,,,,,,
+6/20/2020,14,Kafe,Defense,X,Jackal,Cav,Blitz,Clash,0,4,0,4.00,0.00,3.00,2.00,0.00,4.00,2.00,0.00,4.00,2.00,2.00,4.00,1.00,1.00,4.00,,,,,
+6/20/2020,15,Outback,Attack,X,Ace,Cav,Jackal,Echo,5,3,1,7.00,3.00,5.00,7.00,5.00,4.00,3.00,1.00,4.00,7.00,3.00,5.00,7.00,3.00,5.00,,,,,
+6/20/2020,16,Border,Defense,X,Thatcher,Cav,Montagne,Melusi,4,0,1,0.00,0.00,4.00,4.00,0.00,0.00,1.00,0.00,0.00,6.00,1.00,1.00,2.00,1.00,1.00,,,,,
